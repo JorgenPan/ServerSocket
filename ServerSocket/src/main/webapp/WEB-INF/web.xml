@@ -15,7 +15,7 @@
    	
    	<!-- 创建socketServer监听器 -->
     <listener>
-    	<listener-class></listener-class>
+    	<listener-class>ServerSocket.ServerSocketLoaderListener</listener-class>
     </listener>
     
 
